@@ -26,3 +26,8 @@ Options:
   --orig-name            Keep original character name.
   --help, -h             display this help and exit
 ```
+
+## Disclaimer
+- I will not be responsible for any possibility of save corruption.    
+- Hogwarts Legacy brand and name is the registered trademark of its respective owner.    
+- HLAT has no partnership, sponsorship or endorsement with Avalanche Software or Warner Bros. Games.
