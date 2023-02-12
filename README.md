@@ -1,5 +1,6 @@
 # HLAT---Hogwarts-Legacy-Appearance-Tool
-Tool for appearance manipulation for Hogwarts Legacy written in Go.
+Tool for appearance manipulation for Hogwarts Legacy written in Go.    
+[Windows binaries](https://github.com/Sorrow446/HLAT-Hogwarts-Legacy-Appearance-Tool/releases)
 
 ## Why?
 - Allows users to create presets from their own save files and share them for others to use in their saves.
